@@ -1,1 +1,115 @@
+body,
+h3,
+h4,
+p {
+	color: #00203fff;
+}
 
+*{
+	box-sizing: border-box;
+	
+}
+
+body {
+	background-color: #efefe8ff;
+	font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.jumbotron {
+	background-color: lightseagreen;
+}
+
+.r2a {
+	border: 1px solid lightseagreen;
+	border-radius: 0.25rem;
+	padding-left: 1rem;
+}
+
+.btn-primary {
+	background-color: lightseagreen;
+}
+
+h3{
+	font-weight: bold;
+}
+
+#buttons-view,
+#city-input {
+	margin-top: 1rem;
+	border: 1px solid lightseagreen;
+	border-radius: 0.25rem;
+}
+
+.list-group-item {
+	background-color: #efefe8ff;
+}
+
+.card {
+	background-color: lightseagreen;
+}
+
+.card-body {
+	padding: 0.35rem;
+}
+
+.col {
+	border: none;
+	margin: 5px;
+	min-width: 125px;
+}
+
+span{
+	font-size: 1em;
+}
+
+li:hover{
+	background-color: lightslategray;
+	text-decoration: underline;
+}
+
+
+.uvGreen {
+	background-color: lightgreen;
+	border-radius: 5px;
+}
+
+.uvYellow {
+	background-color: lightyellow;
+	border-radius: 5px;
+}
+
+.uvOrange {
+	background-color: lightsalmon;
+	border-radius: 5px;
+}
+
+.uvRed {
+	background-color: palevioletred;
+	border-radius: 5px;
+}
+
+.uvPurple {
+	background-color: violet;
+	border-radius: 5px;
+}
+
+img {
+	width: 15%;
+	height: 15%;
+}
+
+.card-text {
+	font-size: 10pt;
+}
+
+.forecast {
+	padding: 1rem;
+	font-size: 0.9em;
+}
+
+.forecast-img{
+	height: max-content;
+	width: max-content;
+
+}
